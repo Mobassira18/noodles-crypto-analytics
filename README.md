@@ -2,7 +2,7 @@
 
 An end-to-end data project that turns social media posts about crypto tokens into clear Power BI reports. Python cleans the data, a MySQL data warehouse stores it, and Power BI shows it.
 
-Author: Mobassira Nasin, Data Analyst Trainee (Industry Connect), Hamilton, New Zealand
+Author: Mobassira Nasin, Data Analyst Intern at MVP Studio, Hamilton, New Zealand
 
 Demo video: [Watch the demo video on Canva](https://www.canva.com/design/DAHcD4QxPW8/rT94hc4rt5BGzqj2D4j1YQ/view?utm_content=DAHcD4QxPW8&utm_campaign=designshare&utm_medium=link&utm_source=recording_view)
 
@@ -185,5 +185,5 @@ The database password is never written in the notebooks. It is read from a priva
 
 ## Author
 
-Mobassira Nasin, Data Analyst Trainee, Hamilton, New Zealand
+Mobassira Nasin, Data Analyst Intern at MVP Studio, Hamilton, New Zealand
 GitHub: [Mobassira18](https://github.com/Mobassira18)
