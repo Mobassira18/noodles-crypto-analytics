@@ -30,7 +30,8 @@ Posts about crypto tokens sit in several raw files and come from two platforms, 
 
 ## Architecture
 
-![Architecture diagram](docs/architecture-diagram.png)
+![Architecture diagram]
+<img width="1152" height="752" alt="architecture-diagram drawio_1" src="https://github.com/user-attachments/assets/c33420d5-f76f-46a3-8695-16558c1f8efb" />
 
 | Layer | What it does |
 |---|---|
