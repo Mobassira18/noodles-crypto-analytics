@@ -28,10 +28,10 @@ Posts about crypto tokens sit in several raw files and come from two platforms, 
 | DAX measures in the Executive Dashboard | 28 |
 | Relationships in the Power BI model | 8 |
 
-## Architecture
+## Architecture diagram
 
-![Architecture diagram]
-<img width="1152" height="752" alt="architecture-diagram drawio_1" src="https://github.com/user-attachments/assets/c33420d5-f76f-46a3-8695-16558c1f8efb" />
+
+<img width="280" height="80" alt="architecture-diagram drawio_1" src="https://github.com/user-attachments/assets/c33420d5-f76f-46a3-8695-16558c1f8efb" />
 
 | Layer | What it does |
 |---|---|
