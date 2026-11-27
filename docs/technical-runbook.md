@@ -51,7 +51,7 @@ Notebook 06 reads the connection settings from a file named `.env` in the projec
 
 ```
 DB_USER=root
-DB_PASSWORD=<Kamal@2021>
+DB_PASSWORD=<your_password>
 DB_HOST=localhost
 DB_PORT=3306
 DB_NAME=noodles_dw
